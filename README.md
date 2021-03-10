@@ -1,4 +1,4 @@
-### Hi there, I'm Adam 👋
+## Hi there, I'm Adam 👋
 [![Gmail Badge](https://img.shields.io/badge/-adamabd14113@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adamabd14113@gmail.com)](mailto:adamabd14113@gmail.com) [![Github Badge](https://img.shields.io/badge/-AdamAbd-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AdamAbd/)](https://www.github.com/AdamAbd/) [![Twitter Badge](https://img.shields.io/badge/-AdamAbdurrahma-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AdamAbdurrahma/)](https://www.twitter.com/AdamAbdurrahma/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://adamwebporto.web.app)](https://adamwebporto.web.app) <p align='left'>Saya adalah orang yang kreatif dan fleksibel. Saya suka mencari alternatif solusi dari berbagai permasalahan yang ada serta bersikap terbuka mengenai segala kemungkinan solusi yang terbaik, serta bisa mengatur pola pekerjaan saya dan mencoba lebih baik dalam mencapai tujuan.</p>
 🌱 I’m currently learning on FLutter and Flutter Web
 ## Some of my Github Stats
