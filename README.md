@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adam Abdurrahman</h1>
 <h3 align="center">I'm currently learning about Flutter</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-adamabd14113@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adamabd14113@gmail.com)](mailto:adamabd14113@gmail.com) [![Github Badge](https://img.shields.io/badge/-AdamAbd-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AdamAbd/)](https://www.github.com/AdamAbd/) [![Twitter Badge](https://img.shields.io/badge/-AdamAbdurrahma-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AdamAbdurrahma/)](https://www.twitter.com/AdamAbdurrahma/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://adamwebporto.web.app)](https://adamwebporto.web.app)
+[![Gmail Badge](https://img.shields.io/badge/-adamabd14113@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adamabd14113@gmail.com)](mailto:adamabd14113@gmail.com) [![Github Badge](https://img.shields.io/badge/-AdamAbd-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AdamAbd/)](https://www.github.com/AdamAbd/) [![Twitter Badge](https://img.shields.io/badge/-AdamAbdurrahma-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AdamAbdurrahma/)](https://www.twitter.com/AdamAbdurrahma/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://adamwebporto.web.app)](https://adamwebporto.web.app) ![](https://komarev.com/ghpvc/?username=AdamAbd&color=green)
 
 - 🌱 I’m currently learning **Flutter & Flutter Web**
 
